@@ -1,0 +1,41 @@
+
+{
+    "Pizza": [
+        {
+            "name": "Regina",
+            "price": "5€",
+            "ingredients": "Tomate, Double Fromage, Jambon, Champignons",
+            "image": "https://image.noelshack.com/fichiers/2021/01/2/1609845958-americaine.png"    
+        },
+        {
+            "name": "4 Fromages",
+            "price": "8€",
+            "ingredients": "Tomate, Double Fromage, Chèvre, Brie, Bleu",  
+            "image": "https://image.noelshack.com/fichiers/2021/01/2/1609845957-fromages.png"
+        },
+        {
+            "name": "Chorizo",
+            "price": "9€",
+            "ingredients": "Tomate, Double Fromage, Chorizo, Bacon, Œuf",   
+            "image": "https://image.noelshack.com/fichiers/2021/01/2/1609845958-americaine.png"
+        },
+        {
+            "name": "Orientale",
+            "price": "12€",
+            "ingredients": "Tomate, Double Fromage, Merguez, Olives, Poivron, Oignons, Œuf",   
+            "image": "https://image.noelshack.com/fichiers/2021/01/2/1609845960-mexicaine.png"
+        },
+        {
+            "name": "Végétarienne",
+            "price": "15€",
+            "ingredients": "Tomate, Double Fromage, Pomme De Terre, Champignons, Poivron, Artichauts, Oignons, Olives",   
+            "image": "https://image.noelshack.com/fichiers/2021/01/2/1609845960-mexicaine.png"
+        },
+        {
+            "name": "Savoyard",
+            "price": "8€",
+            "ingredients": "Tomate, Double Fromage, Viande Hachée, Reblochon, Oignons",   
+            "image": "https://image.noelshack.com/fichiers/2021/01/2/1609845959-regina.png"
+        }
+    ]
+}
